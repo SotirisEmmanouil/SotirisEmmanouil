@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sotiris 👋</h1>
-<h3 align="center">A recent Queens College Honors graduate who is majoring in Computer Science and is open to learn new technologies. Open to full time Software Engineering, Data Analysis, Web Development, and IT positions. </h3>
+<h3 align="center">A recent Queens College Honors graduate who is majored in Computer Science and is open to learn new technologies. Open to full time Software Engineering, Data Analysis, Web Development, and IT positions. </h3>
 
 - 🌱 I’m currently learning **Python, JavaScript, PHP**
 
