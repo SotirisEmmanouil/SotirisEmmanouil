@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sotiris 👋</h1>
-<h3 align="center">A recent Queens College honors graduate who majored in Computer Science and is open to learning new technologies. Open to full time Software Engineering, Data Analysis, Web Development, and IT positions. </h3>
+<h3 align="center"> A recent computer science honors graduate who is currently working as an HRIS Analyst. </h3>
 
 - 📫 How to reach me **sotiris_emmanouil@icloud.com**
 
